@@ -10,7 +10,7 @@ ACM Multimedia 2023
 
 **Self-PT** is a context-aware prompt tuning method for low-resource VQA, which can adapt large vision-language pretraining models to VQA tasks with only **~1M parameters** and **16 training samples**! If you have any questions, please feel free to raise an issue or email <yuanbw0925@gmail.com>.
 
-Details can be found in https://github.com/NJUPT-MCC/Self-PT.
+**Details can be found in https://github.com/NJUPT-MCC/Self-PT.**
 
 
 <img src="framework.png" width="800"> 
